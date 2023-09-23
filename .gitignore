@@ -1,0 +1,9 @@
+*
+.DS_Store
+!*.h
+!*.c
+!makefile
+!.gitignore
+!*.csv
+clienttest.c 
+servertest.c 
